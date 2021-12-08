@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kristigordon
-- 👀 I’m interested in Machine Learning/Ai
-- 🌱 I’m currently learning Program Management Strategies and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Cloud/Ai
+- 🌱 I’m currently learning Data Analytics and Python
+- 📫 How to reach me KristiMarieGordon@gmail.com
 
 <!---
 kristigordon/kristigordon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
