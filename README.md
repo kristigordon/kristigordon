@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kristigordon
-- 👀 I’m interested in Cloud/Ai
+- 👋 Hi, I’m @kristigordon and I work at Microsoft's Cloud+AI division.
+- 👀 I’m interested in Python and Mobile Development 
 - 🌱 I’m currently learning Data Analytics and Python
 - 📫 How to reach me KristiMarieGordon@gmail.com
 
