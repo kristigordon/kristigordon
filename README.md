@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kristigordon and I work at Microsoft's Cloud+AI division.
-- 👀 I’m interested in Python, Fullstack, and Mobile Development 
-- 🌱 I’m currently learning Python and Web Development with courses in CS/Math Fundementals.
+- 👀 I’m interested in Python, SQL, and Cybersecurity
+- 🌱 I’m currently learning Kali Linux and VIM.
 - 📫 How to reach me KristiMarieGordon@gmail.com or follow me on Instagram and Twitter @KrisKodes
 
 <!---
